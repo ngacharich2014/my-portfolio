@@ -1,7 +1,6 @@
 import React from "react"
 import {NavLink} from "react-router-dom";
 import {SocialIcon} from "react-social-icons";
-import socialIcon from "react-social-icons/dist/social-icon";
 
 export default function NavBar() {
     return(
